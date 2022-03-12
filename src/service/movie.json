@@ -1,0 +1,36 @@
+ [
+    {
+      "id": 1,
+      "src": "https://image.tmdb.org/t/p/w500/1g0dhYtq4irTY1GPXvft6k4YLjm.jpg",
+      "title":  "Spider-Man: No Way Home",
+      "type": "image/png",
+      "genres":"Adventure",
+      "age":"12+"
+      
+    },
+    {
+      "id": 2,
+      "src": "https://image.tmdb.org/t/p/w500/oT4vRVzulbN72602tTPFCwotl7a.jpg",
+      "title": "Death on the Nile",
+      "type": "image/png",
+      "genres":"Drama",
+      "age":"16+"
+    },
+    {
+      "id": 3,
+      "src": "https://image.tmdb.org/t/p/w500/tlZpSxYuBRoVJBOpUrPdQe9FmFq.jpg",
+      "title": "Uncharted",
+      "type": "image/png",
+       "genres":"Adventure",
+       "age":"12+"
+    },
+    {
+      "id": 4,
+      "src": "https://image.tmdb.org/t/p/w500/ko1JVbGj4bT8IhCWqjBQ6ZtF2t.jpg",
+      "title": "Marry Me",
+      "type": "image/png",
+      "genres":"Romance",
+      "age":"12+"
+    }
+
+  ]
